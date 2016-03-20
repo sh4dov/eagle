@@ -19,6 +19,7 @@ UsedLibrary="O:/EAGLE/lbr/74xx-little-us.lbr"
 UsedLibrary="O:/EAGLE/lbr/74xx-us.lbr"
 UsedLibrary="O:/EAGLE/lbr/751xx.lbr"
 UsedLibrary="O:/EAGLE/lbr/IQD-Frequency-Products.lbr"
+UsedLibrary="O:/EAGLE/lbr/SparkFun-Connectors.lbr"
 UsedLibrary="O:/EAGLE/lbr/SparkFun-DigitalIC.lbr"
 UsedLibrary="O:/EAGLE/lbr/SparkFun-DiscreteSemi.lbr"
 UsedLibrary="O:/EAGLE/lbr/SparkFun-PowerIC.lbr"
@@ -359,7 +360,7 @@ UsedLibrary="O:/EAGLE/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="-8 -8 1911 1009"
+Loc="-1688 -8 -9 1019"
 State=1
 Number=0
 
