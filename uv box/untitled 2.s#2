@@ -12705,6 +12705,11 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <pinref part="U$1" gate="AO3400A" pin="GATE"/>
 <label x="45.72" y="17.78" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="PROMINI-RIGHT" gate="G$1" pin="5"/>
+<wire x1="60.96" y1="68.58" x2="58.42" y2="68.58" width="0.1524" layer="91"/>
+<label x="58.42" y="68.58" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="VCC3.3V" class="0">
 <segment>
