@@ -191,7 +191,7 @@
 <text x="9.398" y="-14.224" size="0.4064" layer="100">size 16</text>
 <text x="9.398" y="-15.24" size="0.6096" layer="100">size 24</text>
 <text x="9.398" y="-16.51" size="0.8128" layer="100">size 32</text>
-<text x="9.398" y="-18.034" size="1.016" layer="100">size 40</text>
+<text x="9.398" y="-18.034" size="1.016" layer="100" font="vector" ratio="16" distance="60">size40</text>
 <text x="9.398" y="-12.446" size="0.2286" layer="100">size 9</text>
 <text x="9.398" y="-11.938" size="0.2032" layer="100">size 8</text>
 <text x="9.398" y="-11.43" size="0.1778" layer="100">size 7</text>
@@ -206,6 +206,7 @@
 <wire x1="16.002" y1="-32.004" x2="14.224" y2="-32.004" width="0.254" layer="100"/>
 <wire x1="-1.778" y1="-32.004" x2="0" y2="-32.004" width="0.254" layer="100"/>
 <wire x1="-1.778" y1="-32.004" x2="-1.778" y2="-30.226" width="0.254" layer="100"/>
+<text x="10.1854" y="-19.6088" size="1.27" layer="1" font="vector" ratio="16">asd</text>
 </plain>
 <libraries>
 </libraries>
@@ -406,6 +407,9 @@ design rules under a new name.</description>
 <vertex x="16.002" y="-32.004"/>
 <vertex x="-1.778" y="-32.004"/>
 </polygon>
+</signal>
+<signal name="S$2">
+<wire x1="10.3632" y1="-19.1516" x2="10.4648" y2="-19.1516" width="0.254" layer="16"/>
 </signal>
 </signals>
 </board>

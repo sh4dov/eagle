@@ -725,14 +725,14 @@ W = angled&lt;p&gt;
 <label x="104.14" y="68.58" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="PROMINI-RIGHT" gate="G$1" pin="4"/>
-<wire x1="43.18" y1="68.58" x2="45.72" y2="68.58" width="0.1524" layer="91"/>
-<label x="45.72" y="68.58" size="1.27" layer="95" xref="yes"/>
+<pinref part="PROMINI-RIGHT" gate="G$1" pin="1"/>
+<wire x1="43.18" y1="76.2" x2="45.72" y2="76.2" width="0.1524" layer="91"/>
+<label x="45.72" y="76.2" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SV1" gate="1" pin="4"/>
-<wire x1="20.32" y1="68.58" x2="22.86" y2="68.58" width="0.1524" layer="91"/>
-<label x="22.86" y="68.58" size="1.27" layer="95" xref="yes"/>
+<pinref part="SV1" gate="1" pin="1"/>
+<wire x1="20.32" y1="76.2" x2="22.86" y2="76.2" width="0.1524" layer="91"/>
+<label x="22.86" y="76.2" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
