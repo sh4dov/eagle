@@ -3722,7 +3722,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="RESET_IC" library="telcom" deviceset="TCM809" device=""/>
 <part name="VIN" library="con-molex" deviceset="22-23-2021" device="" value=""/>
 <part name="VOUT" library="con-molex" deviceset="22-23-2021" device="" value=""/>
-<part name="R1" library="resistor" deviceset="R-EU_" device="R1206"/>
+<part name="R1" library="resistor" deviceset="R-EU_" device="R1206" value="1k"/>
 </parts>
 <sheets>
 <sheet>
